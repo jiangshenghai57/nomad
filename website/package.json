@@ -34,7 +34,7 @@
     "@hashicorp/react-text-split": "^3.2.2",
     "@hashicorp/react-text-split-with-code": "^3.3.5",
     "@hashicorp/react-text-split-with-image": "^4.2.2",
-    "@hashicorp/react-text-split-with-logo-grid": "^5.1.2",
+    "@hashicorp/react-text-split-with-logo-grid": "^5.1.4",
     "@hashicorp/react-use-cases": "^4.0.1",
     "@hashicorp/react-vertical-text-block-list": "^6.0.3",
     "marked": "0.7.0",
